@@ -1,2 +1,2 @@
 # scala-st
-scala lang. learning
+learn of scala lang.
