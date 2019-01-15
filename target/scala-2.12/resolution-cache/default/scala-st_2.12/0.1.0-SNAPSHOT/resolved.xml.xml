@@ -4,7 +4,7 @@
 		module="scala-st_2.12"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20180226183831"
+		publication="20190115125928"
 	>
 		<description>
 		scala-st
