@@ -1,5 +1,6 @@
 # Dwango's Scala text memo
 ## 2019/1/15
+https://dwango.github.io/scala_text/basic.html#scala%E3%81%AE%E5%9F%BA%E6%9C%AC
 ### Scalaの基本
 練習問題
 
