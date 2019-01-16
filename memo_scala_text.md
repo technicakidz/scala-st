@@ -140,3 +140,32 @@ scala> x = x / 1980000
 x: Double = 0.18
 ```
 A.18%
+
+## コンパイル
+
+```
+sandbox
+├── HelloWorld.scala
+├── User.scala
+└── build.sbt
+```
+ 
+ - `Hello.scala`の実行
+ 
+ ```
+ sbt:scala-st> run
+ ...
+ [info] Running HelloWorld
+Hello World [success] Total time: 30 s, completed 2019/01/16 13:15:13
+ ```
+ 
+ - `User.scala`の実行
+ 
+ ```
+ scala> val u = new User("Opt", 11)
+u: User = User@1329534
+
+scala> User.printUser(u)
+Opt 11
+ ```
+ 
